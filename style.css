@@ -1,0 +1,27 @@
+body{background-color: rgba(105, 247, 183, 0.3);font-family: 'PT Serif', serif;height: 2500px;}
+.navbar{background-color: #232930eb !important;}
+.slider img{width: 100%;height: 100%;}
+.navbar .dropdown-item{color: aliceblue;}
+.navbar-brand,.navbar li{transition: 0.5s;}
+.navbar-brand:hover{text-shadow: 10px 10px 20px #fff,
+                           -10px -10px 20px #fff;}
+                           .btn{background-color: rgb(82, 208, 218) !important;color: rgb(4, 52, 80) !important;}
+                           .btn:hover{background-color: rgb(38, 47, 48) !important;color: rgb(231, 227, 216)!important ;}
+.navbar li:hover{padding: 10px;}
+.carousel-inner .carousel-caption{
+    background-color:rgba(17, 17, 17, 0.3);
+}
+.carousel-inner h1{text-shadow: navajowhite;border-radius: 7px;}
+.carousel-indicators li{width: 15px;height: 15px;border-radius: 50%;}
+.carousel-item .btn{margin-bottom: 5px;}
+/* end slider*/
+.jumbotron{border-top-right-radius: 0;border-top-left-radius:0 ;}
+.jumbotron .btn:hover,form .btn:hover,h2 a:hover,.carousel-item .btn:hover,#navbarDropdown:hover{background-color: rgb(38, 47, 48) !important;color: rgb(231, 227, 216)!important ;border: 0px solid red;}
+.accordion,#card2 {margin-bottom: 10px;}
+/*end jumbotron*/
+ .card .btn:hover{background-color: rgb(217, 241, 81);color: darkgoldenrod;text-decoration: none;}
+h1{font-family: 'Piedra', cursive;}
+h2 a,.colora{color:black ;}
+.b {background-image: url(imag/weight.jpeg);background-size: cover;background-attachment: fixed;height: 300px;}
+#tr,#tr1,#tr2{  transition: all 0.8s linear 0s;}
+    #tr:hover,#tr1:hover,#tr2:hover{padding: 50px;background-image: url(imag/weight2.jpeg);}
