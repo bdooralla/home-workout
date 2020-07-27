@@ -7,6 +7,11 @@ body{background-color: rgba(105, 247, 183, 0.3);font-family: 'PT Serif', serif;h
                            -10px -10px 20px #fff;}
                            .btn{background-color: rgb(82, 208, 218) !important;color: rgb(4, 52, 80) !important;}
                            .btn:hover{background-color: rgb(38, 47, 48) !important;color: rgb(231, 227, 216)!important ;}
+.btn{background-color: darkolivegreen;color: rgb(188, 226, 121);margin-left: 5px;
+.dropdown-item:hover{background-color: rgb(217, 241, 81);color: darkgoldenrod;}
+ .navbar-nav .dropdown-menu{background-color: darkolivegreen;}
+         
+       
 .navbar li:hover{padding: 10px;}
 .carousel-inner .carousel-caption{
     background-color:rgba(17, 17, 17, 0.3);
